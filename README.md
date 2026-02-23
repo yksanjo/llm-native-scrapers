@@ -1,5 +1,12 @@
 # llm-native-scrapers
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/llm-native-scrapers/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/llm-native-scrapers/actions)
+![License](https://img.shields.io/github/license/yksanjo/llm-native-scrapers)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/llm-native-scrapers)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/llm-native-scrapers)
+
 ## Detailed Description
 
 llm-native-scrapers is maintained as an industry-grade software project with production-ready engineering practices.  
